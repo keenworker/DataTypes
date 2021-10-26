@@ -1,2 +1,2 @@
-module DataTypes {
+module DataTypes{
 }
